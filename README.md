@@ -1,2 +1,1 @@
-# mamis
-mami and mami project
+hey mami this is the project we will make!
